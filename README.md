@@ -13,5 +13,5 @@
 ## 프로젝트
 - [프로젝트 1](https://github.com/LG-URECA-FINAL-TEAM8/filmeet-backend) - 디스커버리 커머스 기반 영화 추천 플랫폼
 - [프로젝트 2](https://github.com/LG-Eureka-Backend-Team4/KidsPing-server) - LG 유플러스 유레카 캠프에서 진행한 아이들 나라 클론 프로젝트 KidsPing
-- [프로젝트 3](https://github.com/hobbytrip/hobbytrip) - 함께하는 운동 커뮤니티 FitTrip repo
+- [프로젝트 3](https://github.com/hobbytrip/hobbytrip) - 함께하는 운동 커뮤니티 FitTrip
 - [프로젝트 4](https://github.com/sgdevcamp2023/remember) - 스마일게이트 개발 캠프 2023 - Remember
